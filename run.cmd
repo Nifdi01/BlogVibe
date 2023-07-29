@@ -1,0 +1,1 @@
+python blogvibe/manage.py runserver 
