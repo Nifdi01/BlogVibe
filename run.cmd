@@ -1,2 +1,1 @@
-.venv/Scripts/activate &
-python blogvibe/manage.py runserver 
+.venv\Scripts\activate && python blogvibe\manage.py runserver
